@@ -2,7 +2,6 @@
 <q-table :columns="table">
 
 
-
 </q-table>
 </template>
 <script setup  lang="ts">
